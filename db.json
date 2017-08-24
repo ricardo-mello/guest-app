@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "user": "teste",
+      "password": "teste",
+      "id": 1
+    },
+    {
+      "user": "teste",
+      "password": "teste",
+      "id": 2
+    },
+    {
+      "user": "teste",
+      "password": "teste",
+      "id": 3
+    },
+    {
+      "user": "teste",
+      "password": "teste",
+      "id": 4
+    },
+    {
+      "user": "admin",
+      "password": "admin",
+      "id": 5
+    },
+    {
+      "user": "admin",
+      "password": "admin",
+      "id": 6
+    }
+  ]
+}
